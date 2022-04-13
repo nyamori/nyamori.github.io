@@ -128,5 +128,8 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-#.deploy_git
-.deploy_git
+#hexo
+db.json
+.deploy_git/
+public/
+
