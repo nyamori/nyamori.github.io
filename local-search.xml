@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>vscode设置随记</title>
+    <link href="/2022/10/14/vscode%E8%AE%BE%E7%BD%AE%E9%9A%8F%E8%AE%B0/"/>
+    <url>/2022/10/14/vscode%E8%AE%BE%E7%BD%AE%E9%9A%8F%E8%AE%B0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="编辑记录"><a href="#编辑记录" class="headerlink" title="编辑记录"></a>编辑记录</h1><p>2022-04-21 Bracket Pair Colorizer2</p><h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><h2 id="Bracket-Pair-Colorizer2"><a href="#Bracket-Pair-Colorizer2" class="headerlink" title="Bracket Pair Colorizer2"></a>Bracket Pair Colorizer2</h2><p>今天看FreeSWITCH SDP协商部分的代码，相关处理非常长，导致括号对非常难以记忆。找了下插件发现最火的插件Bracket Pair Colorizer2标记了个废弃，点进主页说明发现扩展已经变成了官方原生特性，因此到配置里面去开启：</p><p><img src="https://nyamori.oss-cn-shanghai.aliyuncs.com/img/vscode%E6%8B%AC%E5%8F%B7%E8%AE%BE%E7%BD%AE.png" alt="括号配置"></p><p>效果拔群！</p><p><img src="https://nyamori.oss-cn-shanghai.aliyuncs.com/img/vscode%E6%8B%AC%E5%8F%B7%E5%BD%A9%E8%89%B2%E6%95%88%E6%9E%9C.png" alt="彩色括号"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>存档</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>vscode</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>32位应用程序转64位笔记</title>
     <link href="/2022/05/27/32%E4%BD%8D%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E8%BD%AC64%E4%BD%8D%E7%AC%94%E8%AE%B0/"/>
     <url>/2022/05/27/32%E4%BD%8D%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E8%BD%AC64%E4%BD%8D%E7%AC%94%E8%AE%B0/</url>
